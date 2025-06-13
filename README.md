@@ -3,7 +3,7 @@
 [![Python 3.8+](https://img.shields.io/badge/python-3.8%2B-blue.svg)](https://www.python.org/downloads/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-An intelligent automation bot that solves multiplication problems in quizzes/games using OCR and precise mouse control.
+An intelligent automation bot that solves multiplication problems in quizzes/games using OCR and precise mouse control. I needed to automate a very repitive multiplication game for a high score that was required timely elsewhere, and hence the need for this automation was born, you can configure it to play any multiplication(or any arithmetic games) you want by changing the coordinates for the question and answer reigons on the screen and there is a debug mode as well to help you see the resulting images of the reigons specified to adjust them as needed.
 
 <!-- ![Demo Visualization](https://via.placeholder.com/800x400.png?text=Automation+Demo+Screenshot+-+Replace+With+Actual+Image) -->
 
